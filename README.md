@@ -26,7 +26,7 @@ This data set contains simulated data that mimics customer behavior on the Starb
 
 ## Results
 
-  The main findings of the code can be found at the post available here.
+  The main findings of the code can be found at the post available here. Also published a document about the project data, how it cleansed and the modeling with different models and its training and the project findings. The link - https://medium.com/@gijick/best-offer-9170a0e0173c
 
 ## Licensing, Authors, Acknowledgements
   Must give credit to Udacity for the data. You can find the Licensing for the data and other descriptive information at the Udacity.
